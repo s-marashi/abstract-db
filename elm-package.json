@@ -1,0 +1,18 @@
+{
+    "version": "1.0.0",
+    "summary": "It is an abstract implementation of a database binder, for playing with API",
+    "repository": "https://github.com/s-marashi/abstract-db.git",
+    "license": "BSD3",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "Database",
+        "Database.Helpers"
+    ],
+    "dependencies": {
+        "elm-lang/core": "3.0.0 <= v < 4.0.0",
+        "evancz/task-tutorial": "1.0.3 <= v < 2.0.0"
+    },
+    "elm-version": "0.16.0 <= v < 0.17.0"
+}
